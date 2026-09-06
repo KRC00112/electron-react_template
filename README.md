@@ -1,3 +1,5 @@
+How to work with it:
+
 To clone all the files into your project folder, use:
 
 ```bash
