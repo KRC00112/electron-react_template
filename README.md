@@ -11,7 +11,7 @@ To install all dependencies, run this in your project folder:
 ```bash
 npm install
 ```
-To run the project
+To run the project:
 
 ```bash
 npm start
